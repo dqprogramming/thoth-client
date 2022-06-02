@@ -3,7 +3,7 @@
 
 import os
 from setuptools import setup
-from thothlibrary import __version__
+__version__ = "0.12.0"
 
 ROOTDIR = os.path.abspath(os.path.dirname(__file__))
 
